@@ -8,7 +8,7 @@ NXT
 TYR
 BLD
 BWX
-
+NAN
 
 Good debt ratio = 1 < x 
 Good where dividend Yield is greater than Average dividend Yield
