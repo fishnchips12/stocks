@@ -2,13 +2,16 @@ XRO
 REA
 MQG
 CCP
-DTL
+DTL 1
 MP1
 NXT
 TYR
-BLD
+BLD 2
 BWX
 NAN
+INA
+NUF
+
 
 Good debt ratio = 1 < x 
 Good where dividend Yield is greater than Average dividend Yield
