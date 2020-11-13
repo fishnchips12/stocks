@@ -1,17 +1,12 @@
-XRO
-REA
-MQG
-CCP
 DTL 1
-MP1
-NXT
-TYR
-BLD 2
-BWX
-NAN
-INA
-NUF
-
+TYR 2
+BLD 4
+BWX 3
+NAN 7
+INA 9
+NUF 8
+IGO 5
+DHG 6
 
 Good debt ratio = 1 < x 
 Good where dividend Yield is greater than Average dividend Yield
